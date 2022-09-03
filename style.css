@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;0,900;1,300&display=swap');
 
 body {
     font-family: 'Roboto',sans-serif;
@@ -126,4 +126,26 @@ body {
 .info-item-text {
     text-align: center;
     color: dimgray;
+}
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    padding: 100px 300px 75px 300px;
+
+    color: #1f2937;
+    background-color: #e5e7eb;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.quote-author {
+    align-self: flex-end;
+
+    font-size: 24px;
+    font-weight: 700;
 }
