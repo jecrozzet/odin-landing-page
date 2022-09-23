@@ -12,4 +12,4 @@ Learned CSS Skills:
   
 Other Learned Skills:
   - Recreate requested page design
-  - Git commit practice
+  - Git Commit Practice
